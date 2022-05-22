@@ -1,0 +1,10 @@
+{
+  "status": 200, 
+  "data": {
+    "id": 27, 
+    "access_token": "top", 
+    "status": "ACTIVE", 
+    "user_id": 27, 
+    "device_id": ""
+  }
+}
